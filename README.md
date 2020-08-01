@@ -1,1 +1,1 @@
-# LSTM_Stock_Prediction
+A model based on the LSTM algorithm for stock price prediction.
